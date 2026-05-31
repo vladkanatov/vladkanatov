@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">DevOps engineer and Python/Go Developer</h2>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vladkanatov&theme=github-compact)
-
 ## DevOps Engineer | Python/Go Developer
 -------------------------------------------
 * VSU bachelor degree (2027 y.)
