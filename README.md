@@ -3,7 +3,7 @@
 <h2 align="center">DevOps engineer and Python/Go Developer</h2>
 
 ## DevOps Engineer | Python/Go Developer
--------------------------------------------
+
 * VSU bachelor degree (2027 y.)
 * 1 year working on [parsing](https://github.com/OutOfMystic/parsing) project
 * Internship in [Evrone](https://evrone.com/) as a DevOps Engineer
